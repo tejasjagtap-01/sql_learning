@@ -17,3 +17,5 @@
 ### ├── 01-window-functions-ranking/
 ### ├── 02-joins/
 ### │   ├── rank&join_func.md
+### ├── 03-subqueries/
+### │   ├── subqueries_func.md
