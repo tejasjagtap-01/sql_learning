@@ -19,3 +19,5 @@
 ### │   ├── rank&join_func.md
 ### ├── 03-subqueries/
 ### │   ├── subqueries_func.md
+### ├── 04-ctes/
+### │   ├── ctes_func.md
