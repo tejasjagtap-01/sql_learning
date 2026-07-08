@@ -21,3 +21,5 @@
 ### │   ├── subqueries_func.md
 ### ├── 04-ctes/
 ### │   ├── ctes_func.md
+### ├── 05-window-functions-value/
+### │   ├── value_func.md
