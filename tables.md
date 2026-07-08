@@ -43,6 +43,16 @@ CREATE TABLE employees (
   salary      INT
 );
 ```
+
+## 5. Monthly Revenue 
+```
+CREATE TABLE monthly_revenue (
+    month   DATE,
+    revenue INT,
+    region  VARCHAR(50)
+);
+```
+
 ---
 
 ### Insert Customers (some will have NO orders — intentional)
@@ -97,6 +107,24 @@ INSERT INTO employees VALUES
 (8, 'Sneha',   'Tech',       4,     61000);
 ```
 
+
+### Insert Into Monthly Revenue
+```
+INSERT INTO monthly_revenue VALUES
+('2024-01-01', 185000, 'North'),
+('2024-02-01', 210000, 'North'),
+('2024-03-01', 195000, 'North'),
+('2024-04-01', 230000, 'North'),
+('2024-05-01', 225000, 'North'),
+('2024-06-01', 250000, 'North'),
+('2024-01-01', 95000,  'South'),
+('2024-02-01', 88000,  'South'),
+('2024-03-01', 102000, 'South'),
+('2024-04-01', 97000,  'South'),
+('2024-05-01', 115000, 'South'),
+('2024-06-01', 110000, 'South');
+```
+
 ### Table Previews
 1. Customer Table
 ```
@@ -113,4 +141,8 @@ SELECT * FROM orders;
 4. Employees Table
 ```
 SELECT * FROM employees;
+```
+5. Monthly Revenue
+```
+SELECT * FROM monthly_revenue
 ```
