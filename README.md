@@ -23,3 +23,5 @@
 ### │   ├── ctes_func.md
 ### ├── 05-window-functions-value/
 ### │   ├── value_func.md
+### ├── 06-window-functions-aggregate/
+### │   ├── aggregate_func.md
