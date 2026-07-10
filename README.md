@@ -25,3 +25,5 @@
 ### │   ├── value_func.md
 ### ├── 06-window-functions-aggregate/
 ### │   ├── aggregate_func.md
+### ├── 07-union-intersect-except/
+### │   ├── union_func.md
