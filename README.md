@@ -12,7 +12,7 @@
 ### ├── README.md
 
 ### ├── datasets/
-### │   └── setup.sql                  ← All CREATE TABLE + INSERT statements
+### │   └── setup.sql (All CREATE TABLE + INSERT statements)
 
 ### ├── 01-window-functions-ranking/
 ### ├── 02-joins/
@@ -27,3 +27,5 @@
 ### │   ├── aggregate_func.md
 ### ├── 07-union-intersect-except/
 ### │   ├── union_func.md
+### ├── 08-null-handling/
+### │   ├── null_handlingfunc.md
