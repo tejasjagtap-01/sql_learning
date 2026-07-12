@@ -29,3 +29,5 @@
 ### │   ├── union_func.md
 ### ├── 08-null-handling/
 ### │   ├── null_handlingfunc.md
+### ├── 09-date-functions/
+### │   ├── date_func.md
